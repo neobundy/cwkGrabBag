@@ -1,12 +1,13 @@
+# What's in this folder?
+
 Just a bunch of files modified or added for the following course to work on Apple Silicon:
 
 # PyTorch Ultimate 2024 - From Basics to Cutting-Edge
 
-(Updated April 2024)
-PyTorch Ultimate 2024 - From Basics to Cutting-Edge
+👉 PyTorch Ultimate 2024 - From Basics to Cutting-Edge
 https://www.oreilly.com/videos/pytorch-ultimate-2024/9781801070089/
 
-GitHub Repository:
+👉 GitHub Repository:
 https://github.com/DataScienceHamburg/PyTorchUltimateMaterial
 
 ## Installation
